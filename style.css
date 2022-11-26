@@ -1,0 +1,28 @@
+body{
+    text-align: center;
+}
+#App {
+    background-color: aliceblue;
+}
+h1 {
+    font-size: 50px;
+     font-family: 'Luckiest Guy', cursive;
+     
+}
+.line {
+    width: 70px;
+    height: 6px;
+    background-color: black;
+    margin: 8px auto;
+}
+#Games {
+    background-color: aliceblue;
+}
+#Chat_bot {
+    background-color: aliceblue;
+}
+
+img {
+    width: 400px;
+    height: 400px;
+}
